@@ -1,0 +1,15 @@
+play
+1. difficulty select
+2. input name and gender select
+3. tutorial
+4. day-system(1~--) -> gameover 시 해당 day 시작점으로(단, hardcore 시 첫 날로 돌아감.)
+
+setting
+1. sound
+2. controller setting
+
+creadit
+1. developer name
+
+exit
+-> 게임을 종료하시겠습니까 물음창.
