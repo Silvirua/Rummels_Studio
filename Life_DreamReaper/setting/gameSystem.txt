@@ -2,6 +2,7 @@ gameEngine -> GameMakerStudio2
 
 play
 1. difficulty select
+    -> story, easy, normal, hard, hardcore
 2. input name and gender select
 3. tutorial
 4. day-system(1~--) -> gameover 시 해당 day 시작점으로(단, hardcore 시 첫 날로 돌아감.)
