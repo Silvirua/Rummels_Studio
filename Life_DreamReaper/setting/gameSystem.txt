@@ -1,3 +1,5 @@
+gameEngine -> GameMakerStudio2
+
 play
 1. difficulty select
 2. input name and gender select
